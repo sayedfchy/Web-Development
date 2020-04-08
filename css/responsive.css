@@ -1,0 +1,64 @@
+@media (max-width:768px){
+	.about-title h1 {
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
+.about-title p {
+    font-size: 15px;
+    text-align: center;
+}
+.about-section {
+	padding:50px 0px !important;
+}
+.about-title {
+	margin-bottom:30px;
+}
+.slider-con {
+	margin-top:30px;
+	margin-bottom:30px;
+	text-align:center;
+}
+.about-con h2 {
+    border-bottom: 5px solid #0cb4d8;
+    border-right: 5px solid transparent;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+    border-left: 5px solid transparent;
+}
+.about-con p {
+    line-height: 25px;
+    text-align: center;
+    font-size: 14px;
+}
+.card {margin-bottom: 20px;}
+
+.portfolio-section img {
+    margin-bottom: 20px;
+}
+.con-details h2, .con-title {
+    font-size: 20px;
+}
+.con-details {
+	margin-top: 40px;
+}
+.con-details h2, .con-title {
+    margin-bottom: 20px;
+}
+.con-box {
+    padding: 40px 20px;
+}
+footer.footer-section {
+    padding-top: 50px;
+    text-align: center;
+}
+.footer-con {
+    margin: 30px 0px;
+}
+button.menu-btn {
+	display:none;
+}
+
+}
